@@ -11,6 +11,9 @@ The Order Management System is a web application designed to facilitate seamless
 
 The system's architecture ensures scalability and performance, leveraging modern web technologies to provide a responsive and efficient user experience.
 
+## API & Schema Documentation
+https://editor.swagger.io/?_gl=1*1csqun0*_gcl_au*MTQzMTc3ODQ2MS4xNzE5MDAyMzkx&_ga=2.170654313.873186214.1719002391-81124729.1719002391
+
 ## Prerequisites
 Node.js and npm installed
 PostgreSQL database
