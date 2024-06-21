@@ -46,5 +46,5 @@ DATABASE_URL="postgresql://database_user_name:database_password@localhost:port_n
    ```
 9. **Run tests:**
     ```bash
-   - npm test
+   - npm run test
     ```
