@@ -21,30 +21,30 @@ PostgreSQL database
 ## Setup
 1. **Clone the repository:**
    ```bash
-   - git clone https://github.com/MoYasser1777/order_management_system.git
-   - cd order_management_system
+   git clone https://github.com/MoYasser1777/order_management_system.git
+   cd order_management_system
    ```
 2. **Install dependencies:**
    ```bash
-   - npm install
+   npm install
    ```
 3. **Set up environment variables:**
    Create a .env file in the root directory and configure database URL based on you Postgresql local database as the following :
    DATABASE_URL="postgresql://database_user_name:database_password@localhost:port_number/database_name"
 4. **Migrate the database and generate it:**
    ```bash
-   - npx prisma migrate dev
-   - npx prisma generate
+   npx prisma migrate dev
+   npx prisma generate
    ```
 5. **Generate seed data:**
    ```bash
-   - npm run seed
+   npm run seed
    ```
 7. **Start the application in development mode:**
    ```bash
-   - npm run start:dev
+   npm run start:dev
    ```
 9. **Run tests:**
     ```bash
-   - npm run test
+   npm run test
     ```
